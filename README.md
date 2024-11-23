@@ -54,6 +54,7 @@ A Very beefy angular frontend with all the bells and whistles.  Like, all of the
 Hot reloading, Typescript and layers make for a fast dev experience.  Lots of custom dockerized SAM nonsense.
 
 ![lighthouse!](screenshots/lighthouse.png)
+*Note -- its only 99% there because im too lazy to turn off my browser plugins, and they make it not 100.  It actually is 100%.
 
 
 Just a bunch of over-engineered slop!  But it doesnt cost a fortune!
