@@ -1,8 +1,6 @@
 # free-tier-abuse-public
 Some screenshots of a pretty spiffy architecture project that takes advantage of the generosity of Jeff Bezos
 
-Just a few screenshots from a project I've been toying with for a few years 
-
 ![Cost Savings](./screenshots/costSavings.png)
 
 Pretty cheap, right?
